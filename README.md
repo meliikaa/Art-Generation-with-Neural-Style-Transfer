@@ -33,4 +33,8 @@ In this section, you will build the Neural Style Transfer (NST) algorithm in thr
 
 Now, let's dive into Neural Style Transfer and create artistic images that blend content and style! Enjoy the journey into the world of art and deep learning. If you have any questions or need assistance, feel free to reach out to the project contributors or the community. Happy coding!
 
+## Credits
+
+Thanks to DeepLearning.Ai for their Deep Leanring course on coursera
+
 #NeuralStyleTransfer #ArtisticImages #DeepLearning #MachineLearning #ComputerVision #ProgrammingAssignment
